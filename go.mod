@@ -1,4 +1,4 @@
-module github.com/caddyserver/ntlm-transport
+module github.com/LopSdir/ntlm-transport
 
 go 1.14
 

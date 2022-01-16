@@ -1,5 +1,5 @@
 module github.com/LopSdir/ntlm-transport
 
-go 1.14
+go 1.16
 
-require github.com/caddyserver/caddy/v2 v2.0.0
+require github.com/caddyserver/caddy/v2 v2.4.6
